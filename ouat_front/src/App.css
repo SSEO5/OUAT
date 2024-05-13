@@ -1,0 +1,8 @@
+html {
+	--color-main: #4b9eff;
+	--color-cursor: #fff;
+}
+
+body {
+	cursor: none;
+}
