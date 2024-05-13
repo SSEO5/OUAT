@@ -1,2 +1,2 @@
-# ouat
-once upon a time
+# OUAT
+Once Upon A Time
